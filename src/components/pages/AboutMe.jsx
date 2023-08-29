@@ -4,7 +4,7 @@ const AboutMe = () => {
   return (
     <div>
       <h1>About Me</h1>
-      <h4>Hi, I'm <h2>Rushang</h2>, a software engineer with a unique background in mechanical engineering, real estate, and hospitality. I am passionate about using technology to solve real-world problems.
+      <h4>Hi, I'm <h2>Rushang</h2> A software engineer with a unique background in mechanical engineering, real estate, and hospitality. I am passionate about using technology to solve real-world problems.
 
 My mechanical engineering degree gave me a strong foundation in problem-solving and systems thinking. This has helped me to be successful in software engineering, where I am constantly faced with new challenges.
 
